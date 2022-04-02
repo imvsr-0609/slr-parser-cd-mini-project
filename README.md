@@ -1,3 +1,5 @@
+## Compiler Design Mini Project for the Course 18CSC304J Compiler Design
+
 # SLR Parser
 - Is a type of LR parser with small parse tables and a relatively simple parser generator algorithm. As with other types of LR(1) parser, an SLR parser is quite efficient at finding the single correct bottom-up parse in a single left-to-right scan over the input stream, without guesswork or backtracking. The parser is mechanically generated from a formal grammar for the language.
 
