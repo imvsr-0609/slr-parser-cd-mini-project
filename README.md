@@ -20,6 +20,6 @@ Finally, there is the sentence recognition option. We have already used a pre-fi
 ----------------------------------------------------------------------------------------------------
 
 Developed by: 
-- Fernando Wendland
-- Gabriel Bittencourt
-- Mateus Leonahrdt
+- Vedant Singh
+- Harshit Singh
+- Suvodeep Sinha
