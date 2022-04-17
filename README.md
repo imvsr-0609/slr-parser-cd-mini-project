@@ -10,7 +10,7 @@ To run the program, open the slr.html file in a browser of your choice.
 The application comes with a grammar and a set of pre-filled production, but nothing prevents the information is changed and other sets of production can be tested.
 The productions set entry already contains increased grammar (S '-> S) and each new set of productions added, it is automatically numbered (required step for the next steps).
 
-The 'Gerar Tabela Sintática' button, firstly, creates the tables FIRST / FOLLOW and CLOSURE table with the definitions of the canonical items, ie all structures and information necessary to fill the Syntactical Table LR.
+The 'Generate Syntactic table' button, firstly, creates the tables FIRST / FOLLOW and CLOSURE table with the definitions of the canonical items, ie all structures and information necessary to fill the Syntactical Table LR.
 
 The syntactic table created is based on the previous steps, containing the states ACTION and GOTO.
 
